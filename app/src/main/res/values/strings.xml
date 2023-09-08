@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="location_updates" />
+    <string name="latitude" />
+    <string name="longitude">Longitude :</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="x_axis" />
+    <string name="y_axis" />
+    <string name="z_axis" />
+</resources>
